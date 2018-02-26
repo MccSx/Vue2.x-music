@@ -9,9 +9,9 @@
 >6.swiper<br>
 
 ## 项目截图
-![image](https://github.com/MccSx/Vue2.x-music/src/common/image/1.png)<br>
-![image](https://github.com/MccSx/Vue2.x-music/src/common/image/2.png)<br>
-![image](https://github.com/MccSx/Vue2.x-music/src/common/image/3.png)<br>
+![](https://github.com/MccSx/Vue2.x-music/raw/src/common/image/1.png)<br>
+![](https://github.com/MccSx/Vue2.x-music/raw/src/common/image/2.png)<br>
+![](https://github.com/MccSx/Vue2.x-music/raw/src/common/image/3.png)<br>
 ## Build Setup
 
 ``` bash
