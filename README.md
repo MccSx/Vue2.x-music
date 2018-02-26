@@ -2,13 +2,13 @@
 
 Vue2.x实现音乐WebApp
 
-主要技术栈：
-1.vue2.0
-2.vue-router
-3.vuex
-4.axios
-5.better-scroll
-6.swiper
+主要技术栈：<br>
+  1.vue2.0<br>
+  2.vue-router<br>
+  3.vuex<br>
+  4.axios<br>
+  5.better-scroll<br>
+  6.swiper<br>
 ## Build Setup
 
 ``` bash
