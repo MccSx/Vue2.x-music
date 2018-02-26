@@ -8,7 +8,7 @@
 >5.better-scroll<br>
 >6.swiper<br>
 
-##项目截图<br>
+## 项目截图
 ![image](https://github.com/MccSx/Vue2.x-music/src/common/image/1.png)<br>
 ![image](https://github.com/MccSx/Vue2.x-music/src/common/image/2.png)<br>
 ![image](https://github.com/MccSx/Vue2.x-music/src/common/image/3.png)<br>
